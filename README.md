@@ -12,3 +12,5 @@
 ![ybcsocial](https://github.com/ViKey07/PassPhoto/assets/99425379/e13bbd73-d749-4c33-8ee1-080d803db128)
 ![new-php-logo](https://github.com/ViKey07/PassPhoto/assets/99425379/30697249-090e-483d-9a69-be9b278b7f67)
 ![php](https://github.com/ViKey07/PassPhoto/assets/99425379/45ed78e3-7aaa-4637-a0e7-c248906cfddb)
+![icons8-amazon-web-services-480](https://github.com/ViKey07/PassPhoto/assets/99425379/9c2317f2-126a-4c6a-89ff-a5d217da4a24)
+![hostinger-icon](https://github.com/ViKey07/PassPhoto/assets/99425379/973b48cf-be7d-4677-bbd0-055a317906e3)
