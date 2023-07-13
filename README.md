@@ -1,5 +1,6 @@
 
-![Wanderlust](https://user-images.githubusercontent.com/99425379/223410189-159e5ae4-831c-49c4-9f8f-14ea8f5c01d5.png)
+![Wanderlust](https:![pngwing com](https://github.com/ViKey07/PassPhoto/assets/99425379/82bdf41b-ebdc-4fa3-9609-d6c4c22d4ddd)
+//user-images.githubusercontent.com/99425379/223410189-159e5ae4-831c-49c4-9f8f-14ea8f5c01d5.png)
 ![MediaMonks](https://user-images.githubusercontent.com/99425379/223410658-285fcc08-32aa-4b2a-8c65-df8325fd9ef0.png)
 ![PlayStreax](https://user-images.githubusercontent.com/99425379/223411234-a6a47ba1-7f13-4996-a1c7-da8350119303.png)
 ![Calculator](https://user-images.githubusercontent.com/99425379/223411793-136dffaf-8f57-40cf-9e8f-7a944791ea86.png)
